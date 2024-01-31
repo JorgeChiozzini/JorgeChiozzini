@@ -1,4 +1,4 @@
-[Octocat Animation](notocat.jpeg)
+[Octocat Animation](notocat.jpg)
 
 
 <!--
