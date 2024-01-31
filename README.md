@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Octocat Animation](NUX_Octodex.gif)
 
 
