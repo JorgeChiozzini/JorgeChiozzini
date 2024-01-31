@@ -1,4 +1,4 @@
-![Octocat Animation](NUX_Octodex.gif)
+![Octocat Animation](notocat.jpeg)
 
 
 <!--
