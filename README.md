@@ -2,6 +2,9 @@
   <img src="notocat.jpg" alt="Texto alternativo" style="width:50%;">
 </div>  
 <div align="center">
+🤖 [Meu Cartão](https://jorgechiozzini.github.io/mylanding/)
+</div>  
+<div align="center">
   <a href="https://github.com/JorgeChiozzini">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JorgeChiozzini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JorgeChiozzini&layout=compact&langs_count=8&theme=radical&count_private=true"/>
