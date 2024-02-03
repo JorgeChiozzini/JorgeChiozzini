@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="notocat.jpg" alt="Texto alternativo" style="width:50%;">
+  <img src="notocat.jpg" alt="Texto alternativo" style="width:65%;">
 </div>  
 <div align="center">
   <a href="https://github.com/JorgeChiozzini">
