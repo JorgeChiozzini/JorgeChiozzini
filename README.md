@@ -22,7 +22,7 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/> </a>  
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="35" height="35"/> </a>
   <a href="https://www.spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/> </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png" alt="Apache Hadoop"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="Amazon AWS"/> </a>
