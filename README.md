@@ -1,14 +1,19 @@
 <div align="center">
+  <!--
   <img src="notocat.jpg" alt="Texto alternativo" style="width:60%;">
+  -->
 </div>  
 <div align="center">
   <a href="https://github.com/JorgeChiozzini">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JorgeChiozzini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JorgeChiozzini&layout=compact&langs_count=8&theme=radical&count_private=true"/>
+  <!--
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JorgeChiozzini&layout=compact&langs_count=8&theme=radical&count_private=true"/>
+    -->
     
 </div>
 
 
+<!--
 <h3 align="center"></h3>
 <p align="center"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a>  
@@ -29,6 +34,7 @@
   
   
   </p>
+  -->
 
 
  
